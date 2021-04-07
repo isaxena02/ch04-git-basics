@@ -1,3 +1,6 @@
+# 1.Coffee
+# 2. Pancakes
+
 # Exercise-1
 
 The purpose of this exercise is to practice the steps you'll need to
